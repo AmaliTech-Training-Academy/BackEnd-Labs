@@ -1,5 +1,5 @@
 
-## Hospital/Healthcare Management System
+# Hospital/Healthcare Management System
 
 ---
 
