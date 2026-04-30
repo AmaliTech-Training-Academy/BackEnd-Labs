@@ -1,12 +1,10 @@
-# Smart E-Commerce System  
-## Spring Data  
-
-**Complexity:** Advanced  
-**Time Estimate:** 10–12 hours  
+# Smart E-Commerce System -Advanced 
 
 ---
+## Project Overview
 
-## Project Overview  
+### Time Estimate:** 10–12 hours 
+
 
 This phase of the Smart E-Commerce System enhances the existing Spring Boot web application by integrating Spring Data JPA and advanced data persistence mechanisms.  
 
