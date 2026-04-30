@@ -16,7 +16,7 @@ All data is now managed in-memory using Collections and processed via functional
 
 ---
 
-## Learning Objectives
+## Project Objectives
 
 By completing this lab, you will be able to:
 
