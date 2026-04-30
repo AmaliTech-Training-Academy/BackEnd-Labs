@@ -3,7 +3,7 @@
 
 ---
 
-### Project Objectives
+## Project Objectives
 
 By the end of this project, learners will be able to:
 
@@ -17,7 +17,7 @@ By the end of this project, learners will be able to:
 
 ---
 
-### Project Overview
+## Project Overview
 
 This stage of the Hospital Management System focuses on building the data layer and persistence logic that will power the full application in later modules. Students will design a relational database for a hospital management system, implement the schema using SQL, and integrate it with a JavaFX application that performs essential operations — including patient registration, appointment scheduling, medical records management, and reporting.
 
@@ -25,9 +25,9 @@ The system must reflect real-world hospital logic (patients, doctors, department
 
 ---
 
-### Epics and User Stories
+## Epics and User Stories
 
-#### Epic 1: Database Design and Modeling
+### Epic 1: Database Design and Modeling
 
 **User Story 1.1**
 
@@ -49,7 +49,7 @@ The system must reflect real-world hospital logic (patients, doctors, department
 
 ---
 
-#### Epic 2: Data Access and CRUD Operations
+### Epic 2: Data Access and CRUD Operations
 
 **User Story 2.1**
 
@@ -71,7 +71,7 @@ The system must reflect real-world hospital logic (patients, doctors, department
 
 ---
 
-#### Epic 3: Searching, Sorting, and Optimization
+### Epic 3: Searching, Sorting, and Optimization
 
 **User Story 3.1**
 
@@ -93,7 +93,7 @@ The system must reflect real-world hospital logic (patients, doctors, department
 
 ---
 
-#### Epic 4: Performance and Query Optimization
+### Epic 4: Performance and Query Optimization
 
 **User Story 4.1**
 
@@ -115,7 +115,7 @@ The system must reflect real-world hospital logic (patients, doctors, department
 
 ---
 
-#### Epic 5: Reporting and Documentation
+### Epic 5: Reporting and Documentation
 
 **User Story 5.1**
 
