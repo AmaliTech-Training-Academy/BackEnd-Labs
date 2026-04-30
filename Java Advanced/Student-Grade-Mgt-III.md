@@ -1,20 +1,9 @@
-# Student Grade Management System
-
-## Advanced Edition
-
----
-
-## Complexity
-
-**Advanced**
-
-## Time Estimate
-
-6–7 hours
+# Student Grade Management System -Advanced
 
 ---
 
 # Project Objectives
+## Time Estimate : 6–7 hours
 
 By completing this project, you will be able to:
 
