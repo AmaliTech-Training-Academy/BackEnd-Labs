@@ -1,8 +1,4 @@
-# Advanced Optimization
-
----
-
-## Blogging Platform
+# Advanced Optimization -Blogging Platfrom
 
 ---
 
