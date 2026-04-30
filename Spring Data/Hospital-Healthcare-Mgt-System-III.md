@@ -1,12 +1,8 @@
-# Hospital Management System – Spring Data JPA
-
-## Complexity
-
-Advanced | Time Estimate: 10–12 hours
-
+# Hospital Management System – Advanced
 ---
 
 ## Project Overview
+### Advanced | Time Estimate: 10–12 hours
 
 This phase enhances the existing Hospital Management System by integrating **Spring Data JPA** and advanced persistence techniques. The focus is on repository abstraction, query optimization, transaction management, pagination, sorting, and caching.
 
