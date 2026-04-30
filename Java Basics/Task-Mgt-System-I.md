@@ -16,7 +16,7 @@ The lab serves as the foundation for the multi-week Project Management series. F
 
 ---
 
-## Learning Objectives
+## Project Objectives
 
 By completing this lab, you will be able to:
 
