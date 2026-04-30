@@ -1,6 +1,5 @@
 
 # Blogging Platform
-
 ---
 
 ## Project Overview
