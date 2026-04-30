@@ -1,5 +1,4 @@
 # Hospital/Healthcare Management System  
-## Spring Security  
 
 ---
 
