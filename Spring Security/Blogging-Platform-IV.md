@@ -1,8 +1,4 @@
-# Spring Security
-
----
-
-## Blogging Platform
+# Blogging Platform
 
 ---
 
