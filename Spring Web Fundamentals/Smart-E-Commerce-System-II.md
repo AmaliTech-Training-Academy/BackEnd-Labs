@@ -1,4 +1,4 @@
-# Smart E-Commerce System – Spring Web
+# Smart E-Commerce System
 
 ## Complexity
 
