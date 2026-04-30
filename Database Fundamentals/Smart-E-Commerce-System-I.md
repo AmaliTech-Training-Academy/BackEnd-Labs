@@ -1,11 +1,8 @@
 # Smart E-Commerce System
 
-## Database Fundamentals
-
-Complexity: Advanced  |  Time Estimate: 10–12 hours
-
 ## Project Objectives
 
+Complexity: Advanced  |  Time Estimate: 10–12 hours
 By the end of this project, learners will be able to:
 
 * Design and normalize a relational database schema that models an e-commerce domain effectively.
