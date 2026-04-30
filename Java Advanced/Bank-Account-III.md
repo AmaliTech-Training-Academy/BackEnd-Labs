@@ -1,8 +1,8 @@
 
-## Bank Account Management
+# Bank Account Management
 ---
 
-### Project Overview
+## Project Overview
 
 This lab builds directly on Week 2, enhancing the Bank Account Management System by introducing modern Java features:
 
@@ -16,7 +16,7 @@ All data is now managed in-memory using Collections and processed via functional
 
 ---
 
-### Learning Objectives
+## Learning Objectives
 
 By completing this lab, you will be able to:
 
@@ -30,42 +30,42 @@ By completing this lab, you will be able to:
 
 ---
 
-### System Features Overview
+## System Features Overview
 
-#### Feature 1: Collections Migration with Functional Programming
+### Feature 1: Collections Migration with Functional Programming
 - Replace arrays with `ArrayList` and `HashMap<String, Account>`
 - Implement efficient search, insert, and update operations
 - Support sorting transactions by date or amount using comparators and Streams
 - Use Lambda expressions for concise iteration and transformation of data
 
-#### Feature 2: File Persistence with Functional Stream Processing
+### Feature 2: File Persistence with Functional Stream Processing
 - Save all accounts and transactions to files (`accounts.txt`, `transactions.txt`)
 - Load data automatically on startup
 - Use Java NIO `Files` and `Paths` APIs for reading/writing
 - Process loaded data using Streams and Method References for mapping lines into `Account` and `Transaction` objects
 
-#### Feature 3: Regex Validation
+### Feature 3: Regex Validation
 - Validate account numbers (`ACC\d{3}`), emails, and phone numbers
 - Display user-friendly errors for invalid input formats
 - Centralize validation logic in `ValidationUtils`
 - Optionally apply `Predicate` lambdas for dynamic validation rules
 
-#### Feature 4: Thread-Safe Concurrent Transactions
+### Feature 4: Thread-Safe Concurrent Transactions
 - Use `Thread` and `synchronized` to simulate multiple deposits/withdrawals
 - Demonstrate concurrency by running simultaneous operations safely
 - Prevent race conditions and data inconsistencies
 - Optionally use parallel streams for batch transaction simulations
 
-#### Feature 5: Enhanced Console Experience
+### Feature 5: Enhanced Console Experience
 - Show data load/save confirmation messages
 - Display thread activities in real time
 - Maintain readable logs for file operations and thread actions
 
 ---
 
-### Console UI Examples
+## Console UI Examples
 
-#### Main Menu (Extended)
+### Main Menu (Extended)
 
 ```
 ╔════════════════════════════════════════════╗
@@ -129,7 +129,7 @@ transactions.stream()
 ✓ Transactions filtered and sorted using Streams and Lambdas.
 ```
 
-#### File Save Confirmation
+### File Save Confirmation
 
 ```
 SAVING ACCOUNT DATA
@@ -139,7 +139,7 @@ Transactions saved to transactions.txt
 ✓ File save completed successfully.
 ```
 
-#### Statement Generation (from Collections)
+### Statement Generation (from Collections)
 
 ```
 GENERATE ACCOUNT STATEMENT
@@ -156,7 +156,7 @@ TXN018 | WITHDRAWAL | -$200.00 | $940.00
 Net Change: +$100.00
 ```
 
-#### Application Exit
+### Application Exit
 
 ```
 Thank you for using the Bank Account Management System!
@@ -166,7 +166,7 @@ Goodbye!
 
 ---
 
-### Expected User Workflows
+## Expected User Workflows
 
 #### Workflow 1: Data Persistence Cycle
 1. Start application → data auto-loads from files
@@ -192,7 +192,7 @@ Goodbye!
 
 ---
 
-### User Stories
+## User Stories
 
 #### Epic 1: Collections Migration and Functional Programming
 
@@ -251,7 +251,7 @@ Goodbye!
 
 ---
 
-### Project Structure
+## Project Structure
 
 ```
 bank-account-management-system/
@@ -325,7 +325,7 @@ bank-account-management-system/
 
 ---
 
-### Grading Rubric
+## Grading Rubric
 
 | Criteria | Points | Excellent (90–100%) | Good (75–89%) | Satisfactory (60–74%) |
 |---|---|---|---|---|
@@ -340,7 +340,7 @@ bank-account-management-system/
 
 ---
 
-### Submission Requirements
+## Submission Requirements
 
 **Deliverables:**
 
