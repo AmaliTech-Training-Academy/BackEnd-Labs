@@ -1,4 +1,4 @@
-# Hospital/Healthcare Management System - Advanced Optimization
+# Hospital/Healthcare Management System 
 
 ---
 
