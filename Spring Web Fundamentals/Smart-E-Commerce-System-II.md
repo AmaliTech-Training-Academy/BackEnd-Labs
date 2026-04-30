@@ -1,12 +1,9 @@
 # Smart E-Commerce System
 
-## Complexity
-
-Advanced | Time Estimate: 10–12 hours
-
 ---
 
 ## Project Overview
+### Advanced | Time Estimate: 10–12 hours
 
 This phase transforms the Smart E-Commerce System into a full **Spring Boot web application**, focusing on building **RESTful and GraphQL APIs**. The system applies enterprise-level backend concepts including validation, exception handling, AOP, and API documentation.
 
