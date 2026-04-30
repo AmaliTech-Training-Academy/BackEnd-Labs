@@ -5,7 +5,7 @@
 
 ---
 
-## Objectives
+## Project Objectives
 
 By completing this project, you will be able to:
 
