@@ -13,7 +13,7 @@ By the end of this project, learners will be able to:
 * Compare relational and NoSQL designs for unstructured data storage such as user reviews or logs.
 * Measure and document performance improvement through optimization and indexing.
 
-## Project Description
+## Project Overview
 
 This stage of the Smart E-Commerce System focuses on building the data layer and persistence logic that will power the full application in later modules.
 
