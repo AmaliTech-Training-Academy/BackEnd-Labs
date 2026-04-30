@@ -2,8 +2,8 @@
 
 ---
 
-# Project Objectives
-## Time Estimate : 6–7 hours
+## Project Objectives
+### Time Estimate : 6–7 hours
 
 By completing this project, you will be able to:
 
