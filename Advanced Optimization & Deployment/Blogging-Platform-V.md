@@ -1,4 +1,4 @@
-#  Blogging Platfrom - Advanced Optimization
+#  Blogging Platfrom
 
 ---
 
