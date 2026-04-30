@@ -1,12 +1,9 @@
 # Hospital / Healthcare Management System
 
-## Complexity
-
-Advanced | Time Estimate: 10–12 hours
-
 ---
 
 ## Project Overview
+### Advanced | Time Estimate: 10–12 hours
 
 This phase transforms the Hospital Management System into a **Spring Boot web application**. It focuses on building **RESTful and GraphQL APIs** that interact with the underlying database while applying enterprise-level backend concepts such as validation, exception handling, AOP, and OpenAPI documentation.
 
