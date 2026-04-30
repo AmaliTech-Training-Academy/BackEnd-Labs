@@ -1,4 +1,4 @@
-# Hospital / Healthcare Management System – Spring Web
+# Hospital / Healthcare Management System
 
 ## Complexity
 
