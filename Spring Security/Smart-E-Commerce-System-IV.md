@@ -1,7 +1,5 @@
 # Smart E-Commerce System
-# Spring Security  
 ---
-
 ## Project Overview  
 
 This phase emphasizes building secure, scalable, and production-ready web backends that can safely handle authentication, authorization, and cross-origin requests.  
