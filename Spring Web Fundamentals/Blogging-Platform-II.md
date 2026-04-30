@@ -1,10 +1,7 @@
-# Spring Web
-
-
-## Blogging Platform
+# Blogging Platform
 ---
 
-### Project Overview
+## Project Overview
 
 This phase of the Blogging Platform transforms the existing database foundation into a web-based Spring Boot application and applies Spring Web development concepts to design and implement RESTful and GraphQL APIs that interact with the system's data while applying validation, exception handling, AOP, and OpenAPI documentation.
 
@@ -14,7 +11,7 @@ This phase also introduces algorithmic techniques for efficient sorting, searchi
 
 ---
 
-### Project Objectives
+## Project Objectives
 
 By the end of this project, learners will be able to:
 
@@ -26,7 +23,7 @@ By the end of this project, learners will be able to:
 
 ---
 
-### Epics and User Stories
+## Epics and User Stories
 
 #### Epic 1: Application Setup and Dependency Management
 
@@ -105,7 +102,7 @@ By the end of this project, learners will be able to:
 
 ---
 
-### Technical Requirements
+## Technical Requirements
 
 | Area | Description |
 |---|---|
@@ -121,7 +118,7 @@ By the end of this project, learners will be able to:
 
 ---
 
-### Deliverables
+## Deliverables
 
 | Deliverable | Description |
 |---|---|
@@ -135,7 +132,7 @@ By the end of this project, learners will be able to:
 
 ---
 
-### Evaluation Criteria
+## Evaluation Criteria
 
 | Category | Description | Points |
 |---|---|---|
@@ -150,7 +147,7 @@ By the end of this project, learners will be able to:
 ---
 ---
 
-## Module 5.2: Hospital/Healthcare Management System
+# Module 5.2: Hospital/Healthcare Management System
 
 **Complexity:** Advanced
 **Time Estimate:** 10–12 hours
@@ -296,7 +293,7 @@ By the end of this project, learners will be able to:
 ---
 ---
 
-## Module 5.3: Smart E-Commerce System
+# Module 5.3: Smart E-Commerce System
 
 **Complexity:** Advanced
 **Time Estimate:** 10–12 hours
