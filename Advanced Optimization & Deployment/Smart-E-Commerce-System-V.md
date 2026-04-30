@@ -1,5 +1,4 @@
-# Smart E-Commerce System - Advanced Optimization
-
+# Smart E-Commerce System 
 
 ## Project Overview
 
