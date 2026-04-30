@@ -1,12 +1,9 @@
-# Spring Data
+
+# Blogging Platform
 
 ---
 
-## Blogging Platform
-
----
-
-### Project Overview
+## Project Overview
 
 This phase of the Blogging Platform enhances the existing Spring Boot application by integrating Spring Data JPA and advanced data handling mechanisms. Learners will focus on repository abstraction, query optimization, and data transactions while maintaining clean architecture and modularity.
 
@@ -14,7 +11,7 @@ This phase introduces pagination, sorting, and caching to optimize blog post ret
 
 ---
 
-### Project Objectives
+## Project Objectives
 
 By the end of this project, learners will be able to:
 
@@ -27,7 +24,7 @@ By the end of this project, learners will be able to:
 
 ---
 
-### Epics and User Stories
+## Epics and User Stories
 
 #### Epic 1: Spring Data Integration
 
@@ -131,7 +128,7 @@ By the end of this project, learners will be able to:
 
 ---
 
-### Deliverables
+## Deliverables
 
 | Deliverable | Description |
 |---|---|
@@ -145,7 +142,7 @@ By the end of this project, learners will be able to:
 
 ---
 
-### Evaluation Criteria
+## Evaluation Criteria
 
 | Category | Description | Points |
 |---|---|---|
@@ -160,7 +157,7 @@ By the end of this project, learners will be able to:
 ---
 ---
 
-## Module 6.2: Hospital/Healthcare Management System
+# Module 6.2: Hospital/Healthcare Management System
 
 **Complexity:** Advanced
 **Time Estimate:** 10–12 hours
@@ -175,7 +172,7 @@ This phase introduces pagination, sorting, and caching to optimize patient manag
 
 ---
 
-### Project Objectives
+## Project Objectives
 
 By the end of this project, learners will be able to:
 
@@ -188,7 +185,7 @@ By the end of this project, learners will be able to:
 
 ---
 
-### Epics and User Stories
+## Epics and User Stories
 
 #### Epic 1: Spring Data Integration
 
@@ -275,7 +272,7 @@ By the end of this project, learners will be able to:
 
 ---
 
-### Technical Requirements
+## Technical Requirements
 
 | Area | Description |
 |---|---|
@@ -292,7 +289,7 @@ By the end of this project, learners will be able to:
 
 ---
 
-### Deliverables
+## Deliverables
 
 | Deliverable | Description |
 |---|---|
@@ -321,14 +318,14 @@ By the end of this project, learners will be able to:
 ---
 ---
 
-## Module 6.3: Smart E-Commerce System
+# Module 6.3: Smart E-Commerce System
 
 **Complexity:** Advanced
 **Time Estimate:** 10–12 hours
 
 ---
 
-### Project Overview
+## Project Overview
 
 This phase of the Smart E-Commerce System enhances the existing Spring Boot web application by integrating Spring Data JPA and advanced data persistence mechanisms. Learners will focus on repository abstraction, query optimization, and transaction management while preserving the layered architecture introduced in Week 5.
 
@@ -336,7 +333,7 @@ This phase introduces pagination, sorting, and caching to optimize product brows
 
 ---
 
-### Project Objectives
+## Project Objectives
 
 By the end of this project, learners will be able to:
 
@@ -349,7 +346,7 @@ By the end of this project, learners will be able to:
 
 ---
 
-### Epics and User Stories
+## Epics and User Stories
 
 #### Epic 1: Spring Data Integration
 
@@ -436,7 +433,7 @@ By the end of this project, learners will be able to:
 
 ---
 
-### Technical Requirements
+## Technical Requirements
 
 | Area | Description |
 |---|---|
@@ -453,7 +450,7 @@ By the end of this project, learners will be able to:
 
 ---
 
-### Deliverables
+## Deliverables
 
 | Deliverable | Description |
 |---|---|
@@ -467,7 +464,7 @@ By the end of this project, learners will be able to:
 
 ---
 
-### Evaluation Criteria
+## Evaluation Criteria
 
 | Category | Description | Points |
 |---|---|---|
