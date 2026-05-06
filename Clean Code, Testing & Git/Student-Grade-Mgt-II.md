@@ -14,7 +14,7 @@ This project forms the foundation for a progressive multi-week Project Managemen
 
 ---
 
-## Learning Objectives
+## Project Objectives
 
 By completing this lab, you will be able to:
 

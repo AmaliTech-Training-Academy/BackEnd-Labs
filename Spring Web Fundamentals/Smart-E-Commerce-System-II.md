@@ -1,13 +1,13 @@
-# Hospital / Healthcare Management System
+# Smart E-Commerce System
 
 ---
 
 ## Project Overview
 ### Advanced | Time Estimate: 10–12 hours
 
-This phase transforms the Hospital Management System into a **Spring Boot web application**. It focuses on building **RESTful and GraphQL APIs** that interact with the underlying database while applying enterprise-level backend concepts such as validation, exception handling, AOP, and OpenAPI documentation.
+This phase transforms the Smart E-Commerce System into a full **Spring Boot web application**, focusing on building **RESTful and GraphQL APIs**. The system applies enterprise-level backend concepts including validation, exception handling, AOP, and API documentation.
 
-The system models real-world hospital operations including **patients, doctors, departments, and appointments**, ensuring scalability, maintainability, and clean architecture.
+The goal is to evolve the existing database foundation into a scalable, modular, and well-documented backend system using Spring Boot.
 
 ---
 
@@ -15,7 +15,7 @@ The system models real-world hospital operations including **patients, doctors, 
 
 By the end of this project, learners will be able to:
 
-* Apply Spring Boot configuration principles, IoC, and Dependency Injection for modular applications.
+* Apply Spring Boot configuration principles, IoC, and Dependency Injection to build modular applications.
 * Develop RESTful APIs using layered architecture (Controller → Service → Repository).
 * Implement validation, exception handling, and API documentation using Bean Validation, @ControllerAdvice, and Springdoc OpenAPI.
 * Integrate GraphQL schemas, queries, and mutations for flexible data retrieval.
@@ -41,22 +41,22 @@ As a developer, I want to configure and structure a Spring Boot project so that 
 ### Epic 2: RESTful API Development
 
 **User Story 2.1**
-As an administrator, I want to manage patients, doctors, and departments through REST endpoints.
+As an administrator, I want to manage users, products, and categories through REST endpoints.
 
 **Acceptance Criteria**
 
-* CRUD APIs implemented following REST conventions
-* Responses structured with status, message, and data
+* CRUD APIs implemented following REST standards
+* Standard response structure: status, message, data
 * Controller → Service → Repository architecture applied
 
 **User Story 2.2**
-As a receptionist, I want to view, sort, and filter patients and appointments.
+As a customer, I want to view, sort, and filter products.
 
 **Acceptance Criteria**
 
 * Pagination, sorting, and filtering supported
-* Efficient retrieval algorithms applied
-* Performance documented and analyzed
+* Efficient retrieval logic implemented
+* Performance documented
 
 ---
 
@@ -68,15 +68,15 @@ As a developer, I want to validate and document APIs.
 **Acceptance Criteria**
 
 * Bean Validation applied to DTOs
-* Custom validation rules implemented
-* OpenAPI/Swagger documentation generated automatically
+* Custom validation rules implemented where necessary
+* OpenAPI/Swagger documentation generated
 
 ---
 
 ### Epic 4: GraphQL Integration
 
 **User Story 4.1**
-As a frontend developer, I want to fetch data using GraphQL queries and mutations.
+As a frontend developer, I want to use GraphQL to retrieve only required data.
 
 **Acceptance Criteria**
 
@@ -95,7 +95,7 @@ As a developer, I want centralized logging and monitoring using AOP.
 
 * @Before, @After, @Around aspects implemented
 * Logging applied to service layer methods
-* AOP behavior documented
+* AOP usage documented
 
 ---
 
@@ -105,12 +105,12 @@ As a developer, I want centralized logging and monitoring using AOP.
 | ---------------------- | -------------------------------------------------------- |
 | Framework              | Spring Boot 3.x (Web, Validation, AOP, GraphQL, OpenAPI) |
 | Language               | Java 21                                                  |
-| Database               | Relational database from Module 1                        |
+| Database               | Relational database from previous module                 |
 | Architecture           | Layered (Controller → Service → Repository)              |
 | Validation             | Bean Validation + custom validators                      |
 | Documentation          | Springdoc OpenAPI (Swagger)                              |
 | Cross-Cutting Concerns | Logging and monitoring via AOP                           |
-| Testing                | Postman / JavaFX / web frontend                          |
+| Testing                | Postman / frontend / JavaFX integration                  |
 | DSA Integration        | Sorting, searching, pagination algorithms                |
 
 ---
@@ -119,12 +119,12 @@ As a developer, I want centralized logging and monitoring using AOP.
 
 | Deliverable                     | Description                                  |
 | ------------------------------- | -------------------------------------------- |
-| Spring Boot Web Application     | REST + GraphQL backend connected to database |
+| Spring Boot Application         | REST + GraphQL backend connected to database |
 | Validation & Exception Handling | DTO validation and global error handling     |
 | API Documentation               | Swagger/OpenAPI documentation                |
 | AOP Implementation              | Logging and monitoring aspects               |
 | GraphQL Schema                  | Queries and mutations defined                |
-| Performance Report              | REST vs GraphQL analysis                     |
+| Performance Report              | REST vs GraphQL comparison                   |
 | README File                     | Setup and API usage guide                    |
 
 ---
@@ -134,10 +134,10 @@ As a developer, I want centralized logging and monitoring using AOP.
 | Category                        | Description                           | Points |
 | ------------------------------- | ------------------------------------- | ------ |
 | Spring Boot Configuration & IoC | Proper setup and dependency injection | 15     |
-| REST API Development            | CRUD and REST architecture            | 20     |
+| REST API Development            | Functional CRUD and REST design       | 20     |
 | Validation & Documentation      | Validation, error handling, OpenAPI   | 20     |
-| GraphQL Integration             | Schema, queries, mutations            | 15     |
-| AOP & Optimization              | Logging and monitoring                | 15     |
+| GraphQL Integration             | Schema, queries, and mutations        | 15     |
+| AOP & Optimization              | Logging and performance monitoring    | 15     |
 | Code Quality & Reporting        | Clean code and documentation          | 15     |
 
 **Total: 100 Points**
