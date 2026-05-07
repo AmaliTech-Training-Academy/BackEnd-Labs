@@ -34,7 +34,11 @@ This space contains all modules and lab exercises for backend development throug
 
 ### Clean Code, Testing and Git
 
-- [Enterprise-Grade URL Shortener Microservice](Python/Flask%20Django%20Web%20Fundamentals/Enterprise-Grade%20URL%20Shortener%20Microservice.md)
+- [Enterprise-Grade URL Shortener Microservice](Python/Clean Code ,Testing and Git/Git-Powered Configuration Management.md)
+- [Enterprise-Grade URL Shortener Microservice](Python/Clean Code ,Testing and Git/Multi-Stage Data Processing Pipeline.md)
+- [Enterprise-Grade URL Shortener Microservice](Python/Clean Code ,Testing and Git/Resilient Data Importer CLI.md)
+- [Enterprise-Grade URL Shortener Microservice](Python/Clean Code ,Testing and Git/Secure Service Module with TDD.md)
+- [Enterprise-Grade URL Shortener Microservice](Python/Clean Code ,Testing and Git/TDD-Based API Service Stub.md)
 
 ---
 
