@@ -26,25 +26,28 @@ This space contains all modules and lab exercises for backend development throug
 
 ---
 
-### Flask & Django Web Fundamentals
+### Python - Flask & Django Web Fundamentals
 
 - [Enterprise-Grade URL Shortener Microservice](Python/Flask%20Django%20Web%20Fundamentals/Enterprise-Grade%20URL%20Shortener%20Microservice.md)
 
 ---
 
-### Clean Code, Testing and Git
+### Python - Clean Code, Testing & Git
 
-- [Enterprise-Grade URL Shortener Microservice](Python/Clean Code ,Testing and Git/Git-Powered Configuration Management.md)
-- [Enterprise-Grade URL Shortener Microservice](Python/Clean Code ,Testing and Git/Multi-Stage Data Processing Pipeline.md)
-- [Enterprise-Grade URL Shortener Microservice](Python/Clean Code ,Testing and Git/Resilient Data Importer CLI.md)
-- [Enterprise-Grade URL Shortener Microservice](Python/Clean Code ,Testing and Git/Secure Service Module with TDD.md)
-- [Enterprise-Grade URL Shortener Microservice](Python/Clean Code ,Testing and Git/TDD-Based API Service Stub.md)
-
+-  [Git-Powered Configuration Management CLI](Python/Clean%20Code%2C%20Testing%20%26%20Git/Git-Powered-Configuration-Management.md)
+-  [Multi-Stage Data Processing Pipeline](Python/Clean%20Code%2C%20Testing%20%26%20Git/Multi-Stage-Data-Processing-Pipeline.md)
+-  [Resilient Data Importer CLI](Python/Clean%20Code%2C%20Testing%20%26%20Git/Resilient-Data-Importer-CLI.md)
+-  [Secure Service Module with TDD](Python/Clean%20Code%2C%20Testing%20%26%20Git/Secure-Service-Module-TDD.md)
+-  [TDD-Based API Service Stub](Python/Clean%20Code%2C%20Testing%20%26%20Git/TDD-Based-API-Service-Stub.md)
 ---
 
-### Database Fundamentals
+### Python - Database Fundamentals
 
-- [Enterprise-Grade URL Shortener Microservice](Python/Flask%20Django%20Web%20Fundamentals/Enterprise-Grade%20URL%20Shortener%20Microservice.md)
+-  [E-Commerce Analytics Data Pipeline](Python/Database%20Fundamentals/E-Commerce%20Analytics%20Data%20Pipeline.md)
+-  [Logistics and Shipment Tracking Backend](Python/Database%20Fundamentals/Logistics%20and%20Shipment%20Tracking%20Backend.md)
+-  [Online Learning Platform Data Service](Python/Database%20Fundamentals/Online%20Learning.md)
+-  [Restaurant Reservation and Review System](Python/Database%20Fundamentals/Restaurant%20Reservation.md)
+-  [Social Media Platform Data Backend](Python/Database%20Fundamentals/Social%20Media%20Platform%20Data%20Backend.md)
 
 ---
 
@@ -58,7 +61,7 @@ This space contains all modules and lab exercises for backend development throug
 
 ---
 
-### Clean Code, Testing & Git
+### Java - Clean Code, Testing & Git
 
 - [Bank Account Management II](Java/Clean%20Code%2C%20Testing%20%26%20Git/Bank-Account-Mgt-II.md)
 - [Student Grade Management II](Java/Clean%20Code%2C%20Testing%20%26%20Git/Student-Grade-Mgt-II.md)
@@ -74,7 +77,7 @@ This space contains all modules and lab exercises for backend development throug
 
 ---
 
-### Database Fundamentals
+### Java - Database Fundamentals
 
 - [Blogging Platform I](Java/Database%20Fundamentals/Blogging-Platform-I.md)
 - [Hospital Health Management I](Java/Database%20Fundamentals/Hospital-Health-Management-I.md)
@@ -82,7 +85,7 @@ This space contains all modules and lab exercises for backend development throug
 
 ---
 
-### Spring Web Fundamentals
+### Java - Spring Web Fundamentals
 
 - [Blogging Platform II](Java/Spring%20Web%20Fundamentals/Blogging-Platform-II.md)
 - [Hospital Healthcare Management System II](Java/Spring%20Web%20Fundamentals/Hospital-Healthcare-Mgt-System-II.md)
@@ -90,7 +93,7 @@ This space contains all modules and lab exercises for backend development throug
 
 ---
 
-### Spring Data
+### Java - Spring Data
 
 - [Blogging Platform III](Java/Spring%20Data/Blogging-Platform-III.md)
 - [Hospital Healthcare Management System III](Java/Spring%20Data/Hospital-Healthcare-Mgt-System-III.md)
@@ -98,7 +101,7 @@ This space contains all modules and lab exercises for backend development throug
 
 ---
 
-### Spring Security
+### Java - Spring Security
 
 - [Blogging Platform IV](Java/Spring%20Security/Blogging-Platform-IV.md)
 - [Hospital Healthcare Management System IV](Java/Spring%20Security/Hospital-Healthcare-Mgt-System-IV.md)
@@ -106,7 +109,7 @@ This space contains all modules and lab exercises for backend development throug
 
 ---
 
-### Advanced Optimization & Deployment
+### Java - Advanced Optimization & Deployment
 
 - [Blogging Platform V](Java/Advanced%20Optimization%20%26%20Deployment/Blogging-Platform-V.md)
 - [Hospital Healthcare Management System V](Java/Advanced%20Optimization%20%26%20Deployment/Hospital-Healthcare-Mgt-System-V.md)
@@ -129,6 +132,6 @@ The BackEnd track focuses on:
 - Java fundamentals and advanced concepts
 - Clean code practices, testing, and Git workflows
 - Database design and management
-- Spring Framework (Web, Data, Security)
+- Spring Framework 
 - Building and deploying real-world backend systems
 - Performance optimization and deployment strategies
