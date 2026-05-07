@@ -40,7 +40,7 @@ This space contains all modules and lab exercises for backend development throug
 
 ### Python - Authentication and Authorization
 
-- [Enterprise-Grade URL Shortener Microservice](Python/Flask%20Django%20Web%20Fundamentals/Enterprise-Grade%20URL%20Shortener%20Microservice.md)
+- [Enterprise-Grade URL Shortener Microservice](Python/Authentication%20%26%20Authorization/Enterprise-Grade.md)
 
 ---
 
