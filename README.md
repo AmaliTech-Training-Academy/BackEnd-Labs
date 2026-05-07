@@ -44,9 +44,9 @@ This space contains all modules and lab exercises for backend development throug
 
 ---
 
-### Python - Microservices Essentials
+### Python - Fundamentals Architecture & Containerization
 
-- [Enterprise-Grade URL Shortener Microservice](Python/Flask%20Django%20Web%20Fundamentals/Enterprise-Grade%20URL%20Shortener%20Microservice.md)
+- [Enterprise-Grade URL Shortener Microservice](Python/Fundamentals%2C%20Architecture%20%26%20Containerization/Enterprise-Grade.md)
 
 ---
 
@@ -152,7 +152,7 @@ The BackEnd track focuses on:
 - Clean Code, Testing & Git
 - Database Fundamentals
 - Advanced Optimization and Production Readiness
-- Microservices Essentials
+- Fundamentals Architecture & Containerization
 - Authentication and Authorization
 - ORM and Data Access Layer
 
