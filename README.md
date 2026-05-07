@@ -32,6 +32,30 @@ This space contains all modules and lab exercises for backend development throug
 
 ---
 
+### Python - ORM and Data Access Layer 
+
+- [Enterprise-Grade URL Shortener Microservice](Python/ORM%20and%20Data%20Access%20Layer/Enterprise-Grade.md)
+
+---
+
+### Python - Authentication and Authorization
+
+- [Enterprise-Grade URL Shortener Microservice](Python/Flask%20Django%20Web%20Fundamentals/Enterprise-Grade%20URL%20Shortener%20Microservice.md)
+
+---
+
+### Python - Microservices Essentials
+
+- [Enterprise-Grade URL Shortener Microservice](Python/Flask%20Django%20Web%20Fundamentals/Enterprise-Grade%20URL%20Shortener%20Microservice.md)
+
+---
+
+### Python - Advanced Optimization and Production Readiness 
+
+- [Enterprise-Grade URL Shortener Microservice](Python/Flask%20Django%20Web%20Fundamentals/Enterprise-Grade%20URL%20Shortener%20Microservice.md)
+
+---
+
 ### Python - Clean Code, Testing & Git
 
 -  [Git-Powered Configuration Management CLI](Python/Clean%20Code%2C%20Testing%20%26%20Git/Git-Powered-Configuration-Management.md)
@@ -127,6 +151,10 @@ The BackEnd track focuses on:
 - Web frameworks (Flask & Django)
 - Clean Code, Testing & Git
 - Database Fundamentals
+- Advanced Optimization and Production Readiness
+- Microservices Essentials
+- Authentication and Authorization
+- ORM and Data Access Layer
 
 **Java**
 - Java fundamentals and advanced concepts
