@@ -1,4 +1,4 @@
-# Auto Scaling Lab
+# Auto Scaling
 
 ---
 
