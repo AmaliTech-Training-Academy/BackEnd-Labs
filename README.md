@@ -141,25 +141,55 @@ This space contains all modules and lab exercises for backend development throug
 
 ---
 
-## Overview
 
-The BackEnd track focuses on:
+# Microservices on AWS Cloud
 
-**Python**
-- Python fundamentals and advanced concepts
-- Asynchronous and concurrent programming
-- Web frameworks (Flask & Django)
-- Clean Code, Testing & Git
-- Database Fundamentals
-- Advanced Optimization and Production Readiness
-- Fundamentals Architecture & Containerization
-- Authentication and Authorization
-- ORM and Data Access Layer
+---
+### Compute and Development Options on AWS
+-  [Deploy Node or Java App using Elastic Beanstalk](Microservices-on-AWS-Cloud/Compute%20and%20Development%20Options%20on%20AWS/Deploy%20Node%20or%20Java%20app%20using%20Elastic%20Beanstalk%20lab.md)
+-  [Auto Scaling Lab](Microservices-on-AWS-Cloud/Compute%20and%20Development%20Options%20on%20AWS/Auto%20scaling%20lab.md)
 
-**Java**
-- Java fundamentals and advanced concepts
-- Clean code practices, testing, and Git workflows
-- Database design and management
-- Spring Framework 
-- Building and deploying real-world backend systems
-- Performance optimization and deployment strategies
+---
+
+### Deep Dive into Networking on AWS
+-  [Securely Deploying Resources in a VPC Using CloudFormation](Microservices-on-AWS-Cloud/Deep%20Dive%20into%20Networking%20on%20AWS/Securely%20deploying%20resources%20in%20a%20VPC%20using%20CloudFormation%20%E2%80%94%20lab.md)
+-  [Security Baseline Workshop](Microservices-on-AWS-Cloud/Deep%20Dive%20into%20Networking%20on%20AWS/Security%20Baseline%20Workshop%20Lab.md)
+
+---
+
+### Designing and Managing Relational Databases
+-  [To-Do App on ECS Fargate with RDS + RDS Proxy+ ElastiCache (Redis)](Microservices-on-AWS-Cloud/Designing%20and%20Managing%20Relational%20Databases%20With%20AWS%20(Amazon%20RDS%20and%20Aurora)/To-Do%20App%20on%20ECS%20Fargate%20with%20RDS%20%2B%20RDS%20Proxy%20%2B%20ElastiCache%20(Redis).md)
+
+---
+
+### Designing, Building and Operating Serverless Microservices
+-  [Serverless To-Do App with Event-Driven Expiry Processing](Microservices-on-AWS-Cloud/Designing%2C%20Building%20and%20Operating%20Serverless%20Microservices%20on%20AWS/Serverless%20to-do%20app%20with%20event-driven%20expiry%20processing.md)
+
+---
+
+### IAM, Automation and Developer IAC Tools
+-  [Testing IAM User Permissions](Microservices-on-AWS-Cloud/IAM%2C%20Automation%20and%20Developer%20IAC%20Tools/Testing%20IAM%20user%20permissions.md)
+-  [Automating Creation of IAM Resources](Microservices-on-AWS-Cloud/IAM%2C%20Automation%20and%20Developer%20IAC%20Tools/Automating%20creation%20of%20IAM%20resources.md)
+
+---
+
+### Microservices Architecture
+-  [Food Delivery Platform](Microservices-on-AWS-Cloud/Microservices-Architecture/Food%20Delivery%20Platform%20%E2%80%94%20Microservices%20in%20Spring%20Boot.md)
+
+---
+
+### Overview of Storage Services on AWS
+-  [Photo Uploader](Microservices-on-AWS-Cloud/Overview%20of%20Storage%20Services%20on%20AWS/Photo%20Uploader%20Lab.md)
+
+---
+
+### Running Containers on AWS
+-  [Push Docker Image to ECR](Microservices-on-AWS-Cloud/Running%20Containers%20on%20AWS/Push%20Docker%20Image%20to%20ECR%20%E2%80%94%20Lab.md)
+-  [ECS CI/CD](Microservices-on-AWS-Cloud/Running%20Containers%20on%20AWS/ECS%20CI.md)
+
+---
+
+### Working with Non-relational Databases on AWS
+-  [Deploy DynamoDB Table with AWS SAM](Microservices-on-AWS-Cloud/Working%20with%20Non-relational%20Databases%20on%20AWS/Deploy%20DynamoDB%20Table%20with%20AWS%20SAM.md)
+
+---
