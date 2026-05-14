@@ -1,4 +1,4 @@
-# Security Baseline Workshop Lab
+# Security Baseline Workshop
 
 **Workshop link:** [https://catalog.workshops.aws/startup-security-baseline/en-US](https://catalog.workshops.aws/startup-security-baseline/en-US)
 
