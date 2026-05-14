@@ -1,4 +1,4 @@
-# Push Docker Image to ECR — Lab
+# Push Docker Image to ECR
 
 ---
 
