@@ -1,4 +1,4 @@
-# Securely Deploying Resources in a VPC Using CloudFormation — Lab
+# Securely Deploying Resources in a VPC Using CloudFormation
 
 ---
 
