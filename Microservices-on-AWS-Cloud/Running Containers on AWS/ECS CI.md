@@ -1,4 +1,4 @@
-# ECS CI/CD Lab
+# ECS CI/CD
 
 ---
 
