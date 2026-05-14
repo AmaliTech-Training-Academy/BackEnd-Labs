@@ -1,4 +1,4 @@
-# Deploy Node or Java App Using Elastic Beanstalk — Lab
+# Deploy Node or Java App Using Elastic Beanstalk
 
 ---
 
